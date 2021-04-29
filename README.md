@@ -9,8 +9,7 @@ This is a repository for materials used for a module on quantitative research re
 
 ## Intro 
 
-Java is a high-level programming language originally developed by Sun Microsystems and released in 1995. Java runs on a variety of platforms, such as Windows, Mac OS, and the various versions of UNIX. This tutorial gives a complete understanding of Java.
-This reference will take you through simple and practical approaches while learning Java Programming language.
+Java is one of the top five programming languages, and is used for websites, embedded controllers, and Android app development. In this crash course we will cover all the basics: data types, strings, functions, and loops. Then, we'll go over how to control the flow and logic of your code, and debug your project to make sure it runs perfectly. Along the way, we'll see some real-world examples and introduce challenges to allow you to practice your new skills. This course assumes no previous knowledge and is good for beginning programmers who want their first taste of this popular language.
 
 ## How to use
 
