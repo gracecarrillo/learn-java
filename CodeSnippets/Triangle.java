@@ -1,5 +1,3 @@
-package CodeSnippets;
-
 // This is a started code snipet for the notebook 03-Creating_a_Class. 
 // To complete it, follow the notebook step by step!
 

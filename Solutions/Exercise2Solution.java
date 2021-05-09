@@ -1,5 +1,3 @@
-package Solutions;
-
 // Debugged code 
 
 import java.util.Scanner;

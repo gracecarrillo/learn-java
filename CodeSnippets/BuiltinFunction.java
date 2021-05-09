@@ -1,5 +1,3 @@
-package CodeSnippets;
-
 // This is the starter code snippet. 
 // To complete it, follow the notebook step-by-step.
 

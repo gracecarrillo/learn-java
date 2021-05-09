@@ -1,5 +1,3 @@
-package CodeSnippets;
-
 // This is the unfinished code snippet. To fix the errors, 
 // follow the notebook steps!
 

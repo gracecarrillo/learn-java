@@ -1,5 +1,3 @@
-package CodeSnippets;
-
 // This code is the starter snippet. Complete it following the notebook!
 
 import java.util.Scanner;

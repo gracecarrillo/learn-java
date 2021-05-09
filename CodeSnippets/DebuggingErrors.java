@@ -1,5 +1,3 @@
-package CodeSnippets;
-
 import java.util.Scanner;
 
 // This is the starter code snippet with bugs. 

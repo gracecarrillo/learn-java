@@ -1,5 +1,3 @@
-package Solutions;
-
 public class Exercise3Solution {
 
     public static double salaryCalculator(double hoursPerWeek,

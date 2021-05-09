@@ -1,5 +1,3 @@
-package CodeSnippets;
-
 // This is the unfinished code snipped. 
 // To complete it, follow the notebook steps! 
 
